@@ -1,0 +1,30 @@
+/* deklarasi class menggunakan . sedangkan id menggunakan # */
+
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+
+#newsletter {
+  padding: 2rem;
+}
+
+.form {
+  padding: 2rem 2rem;
+}
+
+/* #about {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+} */
+
+#coach {
+  padding: 3rem;
+}
+
+
